@@ -1,8 +1,5 @@
-### Hi there 👋
-👑 ᔕᗩᑎKET TᕼOᖇᗩT👑
------------------------------------------
-
-- 🔭 I’m currently working on Python 
-- 🌱 I’m currently learning BCS
-- 💬 Ask me about Python
+-👋 Hi, i'm @sanket9014  
+- 👀 I’m interested in programming  
+- 🌱 Completed my MSc Computer Science
+- 💬 Let's connect
 
